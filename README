@@ -3,4 +3,4 @@ Google Trends Analysis Project
 In this project, I analyzed Google Trends using the gTrendsR package provided by RStudio. I created dataframes to isolate data from categories of Google searches I am interested in. 
 In this case, I analyzed searches for "Consumer Data" and "Business Formation" over the course of 5 years. I created data plots so to illustrate which cities have been searching with
 keywords being "Consumer Data" and "Business Formation. All coding was done in RStudio and is live data from the time I created this project up to 5 years ago. To run the program, simply
-press run all in RStudio.
+press run all in RStudio. Newly attached photos of bar chart results of keyword "Consumer Data" and "Business Formation" attached.
